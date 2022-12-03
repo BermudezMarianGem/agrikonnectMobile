@@ -31,7 +31,6 @@ const Registration = ({ navigation }) => {
     { fileName: "Choose a photo" },
   ]);
 
-  const [isLoading, setLoading] = useState(true);
   const [data, setData] = useState([]);
 
   const RegisterSeller = async () => {
