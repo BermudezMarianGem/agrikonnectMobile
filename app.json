@@ -1,4 +1,7 @@
 {
   "name": "AgriKOnnectMobile",
-  "displayName": "AgriKOnnectMobile"
+  "displayName": "AgriKOnnectMobile",
+  "android": {
+    "package": "com.anonymous.agrikonnectmobile"
+  }
 }
